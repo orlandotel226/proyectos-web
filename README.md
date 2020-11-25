@@ -3,7 +3,7 @@ Indice
 
 1.- Instalación
 
-    i. Mac
+   i. Mac
     
    ii. Windows
    
@@ -15,11 +15,11 @@ Indice
 
 4.- Enviar cambios al Stage
 
-    i. Eliminar cambio del stage
+   i. Eliminar cambio del stage
     
 5.- Realizar un commit
 
-    i. Ver lista de commits
+   i. Ver lista de commits
     
    ii. Volver atras en commits
    
@@ -29,7 +29,7 @@ Indice
 
 8.- Github
 
-    i. Sincronizar nuestro proyecto
+   i. Sincronizar nuestro proyecto
     
    ii. Clonar proyecto
    
